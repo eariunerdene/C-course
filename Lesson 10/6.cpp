@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+//RGB7501 massive eyreg toonii niilber
+
 int main(){
 	int capacity[100];
 	int num,sum=0;
