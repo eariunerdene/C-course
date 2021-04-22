@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+//RGB7220-g function-r bodson 2nd type
+
 void print();
 int main(){
 	
