@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+	//HOMEWORK
 	
 	string studentName[50];
 	int studentGrade[50];
