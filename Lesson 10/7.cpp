@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+//RGB7220-g function-r bodson
+
 int print(int);
 int main(){
 	int num;
